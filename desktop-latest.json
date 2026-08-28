@@ -1,0 +1,19 @@
+{
+  "version": "1.0.9",
+  "notes": "💖 Automated release for Szeretlek Desktop (v1.0.9).",
+  "pub_date": "2026-08-28T09:03:00.608Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSU4wemNvUlh1UGZjOVo3aGJSeUpFdkhQbDlUQk1aNzFQU29tQlNnZ01HT3dBaGJmdUh1N1NiNzZDRitXMWo0L2NtdXdTc2NsUjJGSUNaVkRnN0twdE5SNFkveFRRakFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTA3Nzc2CWZpbGU6U3plcmV0bGVrXzEuMC45X3g2NF9lbi1VUy5tc2kKOUpCcUlkYmdyQmNtdnZxU3NtMzFWVUdWMGJISjJVUzcwY093NmVBTVZTb1ZRem1Sc3ZzRmQvVFhGRk1DNVRLVDZRT3FQT3dNZGdwNTNUeXVXZDQ3Q3c9PQo=",
+      "url": "https://github.com/Ryynex/Szeretlek-releases/releases/download/v1.0.9/Szeretlek_1.0.9_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSU4wemNvUlh1UGZjOVo3aGJSeUpFdkhQbDlUQk1aNzFQU29tQlNnZ01HT3dBaGJmdUh1N1NiNzZDRitXMWo0L2NtdXdTc2NsUjJGSUNaVkRnN0twdE5SNFkveFRRakFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTA3Nzc2CWZpbGU6U3plcmV0bGVrXzEuMC45X3g2NF9lbi1VUy5tc2kKOUpCcUlkYmdyQmNtdnZxU3NtMzFWVUdWMGJISjJVUzcwY093NmVBTVZTb1ZRem1Sc3ZzRmQvVFhGRk1DNVRLVDZRT3FQT3dNZGdwNTNUeXVXZDQ3Q3c9PQo=",
+      "url": "https://github.com/Ryynex/Szeretlek-releases/releases/download/v1.0.9/Szeretlek_1.0.9_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSU4wemNvUlh1UGRkU2g0ZWsrSTlJVWRKSlR3VHZBWkVReUNnRGd1SUtSZEQ5SitEQlJKZlZhZ2hhRlByTDRlSzVaWERYMFBFWngvOHN4S0NZbDd6bnVmUzArcnQvMUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTA3Nzc2CWZpbGU6U3plcmV0bGVrXzEuMC45X3g2NC1zZXR1cC5leGUKMkFVTjVMVU9CMUwyL0xEdEo2RVZyU2JBcXY0TDJGTHlhQnVjSko2cmNaL3JydE9TdDlaZVNHNUlpSWtUMlpOSUpoVU5PVDdRZm1ueit3ZjlBb0p4RFE9PQo=",
+      "url": "https://github.com/Ryynex/Szeretlek-releases/releases/download/v1.0.9/Szeretlek_1.0.9_x64-setup.exe"
+    }
+  }
+}
